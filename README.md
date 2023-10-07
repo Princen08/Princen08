@@ -70,6 +70,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/princen08/princen08/output/snake.svg" alt="Snake animation" />
-
 ###
